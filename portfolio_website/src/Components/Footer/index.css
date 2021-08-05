@@ -1,0 +1,28 @@
+.FooterContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.ContactContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  width: 40%;
+}
+.ContactContainer h3 {
+  margin: 0;
+}
+
+.SocialContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 25%;
+}
+
+.IconMedia {
+  width: 10%;
+}

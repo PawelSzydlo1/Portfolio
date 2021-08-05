@@ -1,0 +1,10 @@
+.ContentContainer {
+  height: 85vh;
+  padding: 0 50px;
+  margin-top: 64px;
+}
+
+.ContentBackground {
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}

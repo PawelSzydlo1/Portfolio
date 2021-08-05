@@ -1,0 +1,15 @@
+.MainContainer {
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.CartContainer {
+  width: 40%;
+  background-color: rgba(105, 48, 48, 0.863);
+
+  height: 95%;
+}

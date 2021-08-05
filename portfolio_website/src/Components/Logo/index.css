@@ -1,0 +1,13 @@
+.LogoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.LogoImage {
+  height: 90%;
+  color: white;
+  padding: 10% 0;
+  justify-items: center;
+}
